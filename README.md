@@ -52,7 +52,7 @@
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanshuRai-Flme&theme=tokyonight" alt="streak"/>
 <br>
-<img src="https://github-activity-graph.cyclic.app/graph?username=SudhanshuRai-Flme&theme=dracula&area=true&hide_border=true" alt="activity graph"/>
+<img src="https://github-activity-graph.cyclic.app/graph?username=SudhanshuRai356&theme=dracula&area=true&hide_border=true" alt="activity graph"/>
 </div>
 
 ---
