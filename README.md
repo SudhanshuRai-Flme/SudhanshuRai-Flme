@@ -1,4 +1,4 @@
-<!-- Profile README for SudhanshuRai-Flme -->
+<!-- Profile README for SudhanshuRai356 -->
 
 <div align="center">
 
@@ -23,13 +23,13 @@
 
 ## 🏆 Featured Projects
 
-- [**My Playground Virus**](https://github.com/SudhanshuRai-Flme/My-Playground-Virus)  
+- [**My Playground Virus**](https://github.com/SudhanshuRai356/My-Playground-Virus)  
   _A creative sandbox for exploring malware concepts and digital defense._
 
-- [**Traceless Delivery**](https://github.com/SudhanshuRai-Flme/Traceless-Delivery)  
+- [**Traceless Delivery**](https://github.com/SudhanshuRai356/Traceless-Delivery)  
   _Experimenting with stealthy payload delivery and evasion techniques._
 
-> Explore more cool stuff in my [repositories](https://github.com/SudhanshuRai-Flme?tab=repositories)!
+> Explore more cool stuff in my [repositories](https://github.com/SudhanshuRai356?tab=repositories)!
 
 ---
 
@@ -48,9 +48,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SudhanshuRai-Flme&show_icons=true&theme=radical" alt="Sudhanshu's GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SudhanshuRai356&show_icons=true&theme=radical" alt="Sudhanshu's GitHub Stats"/>
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanshuRai-Flme&theme=tokyonight" alt="streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanshuRai356&theme=tokyonight" alt="streak"/>
 <br>
 <img src="https://github-activity-graph.cyclic.app/graph?username=SudhanshuRai356&theme=dracula&area=true&hide_border=true" alt="activity graph"/>
 </div>
