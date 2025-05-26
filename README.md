@@ -4,8 +4,8 @@
 
 <!-- Typing SVG Animation: Faster, neon green color, clean white background -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=700&color=39FF14&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Sudhanshu+Rai;shura356;Student+%7C+Cybersecurity+Enthusiast+%7C+CTF+Player;Python+%7C+C%2B%2B+%7C+Crypto+Nerd" alt="Typing SVG" />
-
-
+</div>
+<div align="center">
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="400" alt="Matrix terminal green code" />
 
 </div>
